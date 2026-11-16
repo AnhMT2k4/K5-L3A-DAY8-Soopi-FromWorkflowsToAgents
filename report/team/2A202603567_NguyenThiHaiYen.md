@@ -93,10 +93,9 @@ Tôi cũng chạy `python -m lab8.demo.buggy_workflow` và tự nhìn thấy out
 
 ## 6. Tự đánh giá
 
-«Mục này nên là lời của bạn. Dưới đây là bản nháp dựa trên những gì đã diễn ra — sửa lại cho đúng cảm nhận của bạn, đừng nộp nguyên văn.»
+
 
 Tôi vào ngành AI chưa lâu và không có nền lập trình, nên phần khó nhất với tôi không phải cú pháp Python mà là hiểu được ranh giới giữa thứ do code quyết và thứ do model quyết. Lúc đầu tôi nghĩ shape càng tự chủ thì càng "thông minh" nên càng tốt. Làm xong shape B rồi so với swarm tham chiếu, tôi thấy ngược lại: swarm tốn nhiều hơn mà lại là shape duy nhất trả sai tiền, chỉ vì nó tin một con số khách tự khai trong ticket.
 
-Nền tài chính giúp tôi ở hai chỗ. Thứ nhất là đọc `docs/business_rules.md`: trần theo đơn, approval phải khớp claim, không cộng hai khoản bồi thường — đây là những luật tôi quen gặp trong công việc. Thứ hai là phản xạ nghi ngờ với số liệu: tôi không tin bộ test chỉ vì nó xanh, mà cài lỗi vào để kiểm, và đúng là tìm ra một lỗ hổng thật trong chính bộ test của mình.
 
 Điều tôi còn yếu là tự viết code từ đầu mà không cần hỗ trợ. Lần sau tôi muốn tự viết trước một bản nháp rồi mới nhờ AI soát, thay vì nhờ viết rồi đọc hiểu ngược lại.
