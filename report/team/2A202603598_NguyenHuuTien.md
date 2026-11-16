@@ -5,7 +5,7 @@
 - Họ tên: Nguyễn Hữu Tiến
 - MSSV: 2A202603598
 - Email: tiennguyen0606@gmail.com
-- GitHub: https://github.com/Soopi
+- GitHub: https://github.com/tiennguyen0606
 
 ## 2. Phần việc phụ trách
 
