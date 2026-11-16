@@ -4,8 +4,8 @@
 
 - Họ tên: Nguyễn Thị Hải Yến
 - MSSV: 2A202603567
-- Email: «điền email trường / email dùng cho lớp»
-- GitHub: «điền username GitHub»
+- Email: 26ai.yennth2@vinuni.edu.vn
+- GitHub: haiyennguyen106@gmail.com
 
 ## 2. Phần việc phụ trách
 
