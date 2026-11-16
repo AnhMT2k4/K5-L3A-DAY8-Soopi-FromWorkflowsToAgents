@@ -9,7 +9,7 @@
 
 ## 2. Phần việc phụ trách
 
-- **Vai trò**: TV3 – Orchestrator (Shape C & Handoff Security)
+- **Vai trò**: Orchestrator (Shape C & Handoff Security)
 - **Phần việc**:
   - Đọc và phân tích cơ chế khử khuẩn (sanitization) và phân quyền công cụ trong `lab8/handoff.py` và `lab8/runtime.py`.
   - Triển khai Shape C trong `src/lab8/shapes/orchestrator.py`.

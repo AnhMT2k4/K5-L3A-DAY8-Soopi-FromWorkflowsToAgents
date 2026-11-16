@@ -26,9 +26,7 @@ Gợi ý chia vai:
 
 | Người | Vai | Commit | Test đã thêm hoặc sửa |
 | --- | --- | --- | --- |
-| Nguyễn Đức Đạt | Viết báo cáo & Đánh giá | 7d64e8e | tests/test_public_matrix.py, tests/test_authorization.py |
-| Mai Tuấn Anh | TV1 – Workflow | 9b0cbed | tests/test_public_matrix.py |
-| Nguyễn Hữu Tiến | TV3 – Orchestrator | b162b89 | tests/test_orchestrator.py |
+| | | | |
 
 ## Cá nhân
 
@@ -46,8 +44,7 @@ Sao chép mục dưới đây cho từng thành viên.
 
 ### Phần việc phụ trách
 
-- Phụ trách nghiên cứu, đánh giá thực nghiệm và viết toàn bộ hệ thống báo cáo (Group Report, ADR, Research Card, Báo cáo cá nhân).
-- Phân tích và đối chiếu số đo thực nghiệm từ kết quả benchmark (pass rate, seed variance, cost per success).
+-
 
 ### Đóng góp cụ thể
 
