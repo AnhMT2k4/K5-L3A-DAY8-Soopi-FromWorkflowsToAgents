@@ -8,7 +8,7 @@ Tối đa 5 trang ngoài phụ lục. Số liệu lấy từ file trong `src/rep
 - Lớp: L3A
 - Repo nhóm: `K5-L3A-DAY8-Soopi-FromWorkflowsToAgents`
 - Thành viên: xem `TEAM.md` (Mai Tuấn Anh, Nguyễn Đức Đạt, Nguyễn Hữu Tiến, Lê Thị Hải Yến)
-- Commit chốt (trùng `report/team/decision_adr.md`): e90ae65
+- Commit chốt (trùng `report/team/decision_adr.md`): 65f1844
 
 ## 2. Mục tiêu và cách tiếp cận
 

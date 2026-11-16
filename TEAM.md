@@ -27,7 +27,7 @@ Gợi ý chia vai:
 | Người | Vai | Commit | Test đã thêm hoặc sửa |
 | --- | --- | --- | --- |
 | Mai Tuấn Anh | workflow + integration | 38c08ef | src/tests/test_workflow.py |
-| Nguyễn Đức Đạt | Viết báo cáo & Đánh giá | e90ae65 | src/tests/test_public_matrix.py, src/tests/test_authorization.py |
+| Nguyễn Đức Đạt | Viết báo cáo & Đánh giá | 65f1844 | src/tests/test_public_matrix.py, src/tests/test_authorization.py |
 | Nguyễn Hữu Tiến | orchestrator | 4d56c70 | src/tests/test_orchestrator.py |
 
 ## Cá nhân
@@ -76,7 +76,7 @@ Sao chép mục dưới đây cho từng thành viên.
 
 ### Bằng chứng
 
-- Commit hash: e90ae65
+- Commit hash: 65f1844
 - 248/248 tests passed trong `python -m pytest -q -m student -o addopts=`
 - 20/20 crash safety trong `python -m lab8.crash_test --count 20 --out reports/crash.json`
 
