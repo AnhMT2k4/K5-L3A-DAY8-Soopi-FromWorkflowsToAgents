@@ -14,6 +14,7 @@
 |   1 | Mai Tuấn Anh | 2A202603574 | maituananh1511@gmail.com | https://github.com/AnhMT2k4 | Workflow + Integration |
 |   2 | Nguyễn Đức Đạt | 2A202603544 | nguyenducdat298@gmail.com | https://github.com/nguyenducdat298 | Viết báo cáo (Eval, ADR, Research Card, Group Report) |
 |   3 | Nguyễn Hữu Tiến | 2A202603598 | tiennh2026@gmail.com | https://github.com/tiennh2026 | Orchestrator + Sub-agents |
+| 4| Nguyễn Thị Hải Yến | 2A201603567| haiyennguyen106@gmail.com| https://github.com/Jennguyen106| single|
 
 Gợi ý chia vai:
 
